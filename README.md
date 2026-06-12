@@ -23,6 +23,7 @@
   </a>
 </div>
 
+![Snake animation](https://github.com/allisonrick82/allisonrick82/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
