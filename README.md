@@ -4,6 +4,14 @@
 </h1>
 <h3>Desenvolvedor Python-End </h3>
 
+##
+
+📖 Eu estou estudando sobre Desenvolvimento de sistemas.
+🧑‍💻 Eu estou programando em Python
+✉️ Meu email: allisonrick82@gmail.com
+
+##
+
 <div align="center">
   <a href="https://github.com/denisilvace"> 
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=allisonrick82&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
