@@ -14,17 +14,16 @@
 
 ##
 
-<div align="center">
+div align="center">
   <a href="https://github.com/allisonrick82"> 
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=allisonrick82&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=allisonrick82&layout=compact&langs_count=16&theme=dark" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   </a>
 </div>
 
 ##
 
 <div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Denis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Allison-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Allison-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
