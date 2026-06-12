@@ -12,7 +12,9 @@
 
 ✉️ Meu email: allisonrick82@gmail.com
 
+
 ##
+
 
 <div align="center">
   <a href="https://github.com/allisonrick82"> 
@@ -21,7 +23,9 @@
   </a>
 </div>
 
+
 ##
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Allison-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
@@ -32,6 +36,7 @@
   <img align="center" alt="Allison-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Allison-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Allison-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+
 
 
 <div>
