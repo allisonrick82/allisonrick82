@@ -15,7 +15,7 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/denisilvace"> 
+  <a href="https://github.com/allisonrick82"> 
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=allisonrick82&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=allisonrick82&layout=compact&langs_count=16&theme=dark" />
   </a>
