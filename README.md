@@ -7,7 +7,9 @@
 ##
 
 📖 Eu estou estudando sobre Desenvolvimento de sistemas.
+
 🧑‍💻 Eu estou programando em Python
+
 ✉️ Meu email: allisonrick82@gmail.com
 
 ##
